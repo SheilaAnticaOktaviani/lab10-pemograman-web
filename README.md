@@ -12,3 +12,5 @@
 
 # Hasil Contoh class OOP : mobil
 <img width="325" height="139" alt="image" src="https://github.com/user-attachments/assets/709a6f04-61d2-4da7-be99-c98330b814f1" />
+
+# Untuk Mengakses locallhost di Web : http://localhost/lab10_php_oop/mobil.php
